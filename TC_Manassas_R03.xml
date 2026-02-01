@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<MetaData>
+	<MiniMap Filename="minimap3.dds" startX="-52.456665" startY="94.523682" endX="4043.543457" endY="4190.523438" mapRadius="1500"
+	Filename1="minimap3.dds" startX1="-52.456665" startY1="94.523682" endX1="4043.543457" endY1="4190.523438" mapRadius1="1500"
+	Filename2="minimap0.dds" startX2="-52.456665" startY2="94.523682" endX2="4043.543457" endY2="4190.523438" mapRadius2="1500"
+	Filename3="minimap1.dds" startX3="-52.456665" startY3="94.523682" endX3="4043.543457" endY3="4190.523438" mapRadius3="1500" />
+	<Gamerules MP1="TeamSolarisArena" MP2="TerrainControl" MP3="TestofStrength"/>
+	<LoadingScreens screen1="loadingscreen.dds"/>
+	<HeaderText text="TC_Manassas_R03"/>
+	<Display Name="TC_Manassas_R03"/>
+	<DescriptionText text="Protect the super-jump capable S.L.S.Manassas K-F core: enemy contacts in ETA 2 minutes..."/>
+</MetaData>

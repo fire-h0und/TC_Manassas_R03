@@ -1,0 +1,19 @@
+Big thanks to Ouch, Rick Hunter, Invictus and Insomniac_GamerTV for map testing!
+Big thanks to Xcalibur and Plotting-Racoon for further map testing on R01!
+Big Thanks to Asgard, Sabitsuki, OptimusShr, GuardianDragon
+
+1. Update 'sources' with updated flographs and pics where applicable
+3. Make one (two?) more belt(s) around each dropship to contain misses?
+4. Fix that one vanir visarea and portal issue
+5. K-F core front coil on upper coil disapears on certain angles
+6. try lift the ceiling so Archangle fits on a cube w/o clipping the pilot
+7. check all cap point IDs on middle and forward factories
+8. aurora's back berth dissapears inside
+9. add multiple noclips for mechs outside
+10. one water lane is deeper than the other - equalize
+11. add flares  with dynamic light on tape turn points
+12. add a single flare outside each dropship
+13. check priority on sound areas in water corridors against floor sound areas
+14. further explore mech build up to try fix teleportation issues
+15. enhance minimap for the walls some more
+16. add signs to arrows to denote if they clip up or down
