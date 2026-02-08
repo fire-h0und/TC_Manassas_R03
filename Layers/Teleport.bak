@@ -2187,7 +2187,7 @@
     </FlowGraph>
    </Object>
    <Object Type="ReverbVolume" Layer="Teleport" Id="{187D10D0-1A1D-4B49-AD5C-AE0C0243DD6D}" Name="ReverbVolume10" Pos="3115,2030,355" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" MotionBlurMultiplier="1" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" EntityClass="ReverbVolume">
-    <Properties bEnabled="1" bFullEffectWhenInside="1" OuterRadius="80" reverbpresetReverbPreset="Plain"/>
+    <Properties bEnabled="1" bFullEffectWhenInside="1" OuterRadius="10" reverbpresetReverbPreset="Plain"/>
     <EntityLinks>
      <Link TargetId="{DA36E989-3852-4AE0-A204-0F5713AB4FEC}" Name="NewLink"/>
     </EntityLinks>

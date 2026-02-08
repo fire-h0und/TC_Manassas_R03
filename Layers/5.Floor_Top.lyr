@@ -1,5 +1,5 @@
 <ObjectLayer>
- <Layer Name="5.Floor_Top" GUID="{7CE87915-D8F9-495B-8BD2-02E24BB2E595}" Hidden="0" Frozen="1" External="1" Exportable="1">
+ <Layer Name="5.Floor_Top" GUID="{7CE87915-D8F9-495B-8BD2-02E24BB2E595}" Hidden="0" Frozen="0" External="1" Exportable="1">
   <LayerObjects>
    <Object Type="Solid" Layer="5.Floor_Top" Id="{C0412103-95CF-438D-BDD4-9081D0A8BE41}" Name="Solid5024" Pos="2912,1628,48" ColorRGB="16776960" Material="mods/mwll/game/levels/multiplayer/TC/TC_Manassas_R03/architecture/backrooms/br2" MatLayersMask="0" RndFlags="0" ViewDistRatio="100" LMQuality="1">
     <Brush>
@@ -71,6 +71,12 @@
      <Face p1="-379.5,-187,-4" p2="-382.5,-187,-4" p3="-382.5,-190,-4" MatId="1" TexScale="1,1,0" TexShift="0,0,0" TexRotate="0"/>
     </Brush>
    </Object>
+   <Object Type="SoundEventSpot" Layer="5.Floor_Top" Id="{3845B23D-B435-4947-8DAD-F2B5FAEE79FA}" Name="SoundEventSpot5" Pos="1508,3065,32" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" MotionBlurMultiplier="1" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" EntityClass="SoundEventSpot">
+    <Properties bEnabled="1" bIgnoreCulling="0" bIgnoreObstruction="0" soundName="" bOnce="0" bPlay="0"/>
+    <EntityLinks>
+     <Link TargetId="{20D76794-1848-4395-8CEB-2BE37B232901}" Name="NewLink"/>
+    </EntityLinks>
+   </Object>
    <Object Type="Solid" Layer="5.Floor_Top" Id="{5F79AD3E-F94A-4826-8F1D-0D6CDDDF77CB}" Name="Solid4961" Pos="1792,1336,51" ColorRGB="16776960" Material="mods/mwll/game/levels/multiplayer/TC/TC_Manassas_R03/architecture/backrooms/br2" MatLayersMask="0" RndFlags="0" ViewDistRatio="100" LMQuality="1">
     <Brush>
      <Face p1="-94,-73,-14" p2="-94,-76,-14" p3="-94,-76,-19" MatId="0" TexScale="1,1,0" TexShift="0,0,0" TexRotate="0"/>
@@ -130,6 +136,9 @@
      <Face p1="-17,0,3" p2="-17,3,3" p3="-14,3,3" MatId="2" TexScale="1,1,0" TexShift="0,0,0" TexRotate="0"/>
      <Face p1="-14,3,-1" p2="-17,3,-1" p3="-17,0,-1" MatId="1" TexScale="1,1,0" TexShift="0,0,0" TexRotate="0"/>
     </Brush>
+   </Object>
+   <Object Type="SoundEventSpot" Layer="5.Floor_Top" Id="{A70F5AA4-D15A-4A07-9094-7AF992B5AC90}" Name="SoundEventSpot4" Pos="1948,3108,69" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" MotionBlurMultiplier="1" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" EntityClass="SoundEventSpot">
+    <Properties bEnabled="1" bIgnoreCulling="0" bIgnoreObstruction="0" soundName="environment:amb_industrial:amb_steam_room_03_loop" bOnce="0" bPlay="1"/>
    </Object>
    <Object Type="Solid" Layer="5.Floor_Top" Id="{C689E6AA-2330-45B7-87BC-9C7908B81D49}" Name="Solid10" Pos="2540,3072,48" ColorRGB="16776960" Material="mods/mwll/game/levels/multiplayer/TC/TC_Manassas_R03/architecture/backrooms/br2" MatLayersMask="0" RndFlags="1064" ViewDistRatio="100" LMQuality="1">
     <Brush>

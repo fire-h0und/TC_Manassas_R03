@@ -4,13 +4,11 @@ Big Thanks to Asgard, Sabitsuki, OptimusShr, GuardianDragon
 
 1. Update 'sources' with updated flographs and pics where applicable
 2. Fix that one vanir visarea and portal issue
-3. K-F core front coil on upper coil disapears on certain angles
-4. try lift the ceiling so Archangel fits on a cube w/o clipping the pilot
-5. check all cap point IDs on middle and forward factories
-6. aurora's back berth dissapears inside
+3. try lift the ceiling so Archangel fits on a cube w/o clipping the pilot
+4. check all cap point IDs on middle and forward factories
+5. aurora's back berth dissapears inside
+6. explore pilot vs mech center point relation to try fix teleportation issues
 7. add multiple noclips for mechs outside
 8. one water lane is deeper than the other - equalize
-9. check priority on sound areas in water corridors against floor sound areas
-10. further explore mech build up to try fix teleportation issues
-11. enhance minimap for the walls some more
-12. add signs to arrows to denote if they clip up or down
+9. enhance minimap for the walls some more
+10. add signs to arrows to denote if they clip up or down
